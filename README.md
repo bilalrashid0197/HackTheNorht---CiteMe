@@ -19,8 +19,9 @@ Our team is geographically spread across the world, with members in Ontario, Man
 ## What we learned
 Our first Hackathon proved to be an amazing learning experience! Being able to work on a project with others was challenging and new, but also very rewarding. Even just being able to see your teammates on camera working alongside you was encouraging and motivating! We learned a lot about the reverse-engineering process and the importance of planning and communication. The process of working on an actual project is completely different than working through tutorials. While it comes with challenges, such as making sure that your code doesn't break if someone doesn't have a middle name, it is also far more rewarding!
 
-## About the Hackers
-Bilal Rashid - (GitHub)[https://github.com/bilalrashid0197], (LinkedIn)[https://www.linkedin.com/in/bilal-rashid-a04625198/]
-Madison Chapel - (GitHub)[https://github.com/Mach-2], (LinkedIn)[https://www.linkedin.com/in/madison-chapel-3a236814a/?originalSubdomain=ca], (Twitter)[https://twitter.com/madison_chapel]
-Johann Maldonado - (GitHub)[https://github.com/Johann-Alpha], (LinkedIn)[https://www.linkedin.com/in/johannmaldonado/], (Twitter)[https://twitter.com/Johann_Baritono]
-Sumin Oh - (GitHub)[https://github.com/suminohh], (LinkedIn)[https://www.linkedin.com/in/suminoh/], (Twitter)[https://twitter.com/suminohh]
+## More About the Hackers
+Bilal Rashid - [GitHub](https://github.com/bilalrashid0197), [LinkedIn](https://www.linkedin.com/in/bilal-rashid-a04625198/), [DevPost](https://devpost.com/software/citeme?ref_content=user-portfolio&ref_feature=in_progress)
+Madison Chapel - [GitHub](https://github.com/Mach-2), [LinkedIn](https://www.linkedin.com/in/madison-chapel-3a236814a/?originalSubdomain=ca), [Twitter](https://twitter.com/madison_chapel), [DevPost](https://devpost.com/software/citeme?ref_content=user-portfolio&ref_feature=in_progress)
+Johann Maldonado - [GitHub](https://github.com/Johann-Alpha), [LinkedIn](https://www.linkedin.com/in/johannmaldonado/), [Twitter](https://twitter.com/Johann_Baritono), [DevPost](https://devpost.com/software/citeme?ref_content=user-portfolio&ref_feature=in_progress)
+Sumin Oh - [GitHub](https://github.com/suminohh), [LinkedIn](https://www.linkedin.com/in/suminoh/), [Twitter](https://twitter.com/suminohh), [DevPost](https://devpost.com/software/citeme?ref_content=user-portfolio&ref_feature=in_progress)
+
